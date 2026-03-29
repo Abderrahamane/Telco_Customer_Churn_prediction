@@ -4,7 +4,7 @@ pandas
 numpy
 matplotlib
 seaborn
-streamlit
+streamlit==1.55.0
 joblib
 fastapi
 uvicorn
