@@ -15,14 +15,16 @@ Telco Customer Churn (Kaggle)
 - Modeling (XGBoost)
 
 ## Results
-- Accuracy: XX%
-- ROC-AUC: XX%
+- Accuracy: 79%
+- Precision: 63% (predicted: churn, actual: churn)
+- recall: 53%
 
 ## Business Impact
 - Helps retain customers
 - Reduces revenue loss
 
 ## Demo
-(Link to your app)
+https://telcocustomerchurn-abderrahmanehouri.streamlit.app/
 
 ## Screenshots
+<img width="2255" height="1503" alt="image" src="https://github.com/user-attachments/assets/87ff2994-7c86-4185-b759-168d3d8f1501" />
